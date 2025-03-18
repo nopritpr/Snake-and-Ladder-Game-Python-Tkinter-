@@ -1,5 +1,4 @@
-# Snake-ladder-using-Python-(Tkinter)
-# Snakes and Ladders Game 🎲🐍  
+# Snakes and Ladders Game (Python - Tkinter)🎲🐍  
 
 This project of **Snakes and Ladders** game implemented in **Python** using the **Tkinter** library for GUI development. It was developed as part of an integrated subject project during my **4th semester of CSE Undergrad**. The game provides a simple yet engaging experience by simulating the classic board game with a graphical interface, automated dice rolls, and turn-based player movement.
 
